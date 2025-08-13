@@ -1,0 +1,28 @@
+body{
+    background-image: url(foody);
+}
+form{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+h1{
+    color: rgba(14, 14, 14, 0.973);
+}
+input{
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom-style: double;
+    border-radius: 0%;
+    border-bottom-width: 5px;
+}
+label{
+    color: rgb(15, 15, 15);
+}
+p{
+    color: rgb(12, 12, 12);
+}
+button{
+    color: cornsilk;
+    background-color: darkgray;
+}
